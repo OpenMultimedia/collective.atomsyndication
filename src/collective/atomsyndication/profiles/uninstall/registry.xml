@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
 <registry>
-    <records name="collective.atomsyndication.Settings" delete="true" />
+    <record name="collective.atomsyndication.controlpanel.IAtomSettings.atom_enabled" delete="true" />
+    <record name="collective.atomsyndication.controlpanel.IAtomSettings.feed_depth" delete="true" />
 </registry>
